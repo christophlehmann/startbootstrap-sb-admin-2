@@ -1,0 +1,7 @@
+{
+  "name": "christophlehmann/startbootstrap-sb-admin-2",
+  "description": "A free, open source, Bootstrap admin theme created by Start Bootstrap installable via composer",
+  "support": {
+    "issues": "https://github.com/BlackrockDigital/startbootstrap-sb-admin-2",
+  }
+}
